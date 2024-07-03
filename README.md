@@ -24,8 +24,8 @@
 ![html5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![сss3](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
 
-<h1></h1>
+<!-- <h1></h1>
 
 <a href="https://github.com/alkilur">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alkilur&layout=compact&langs_count=4&hide=javascript&theme=dark"/>
-</a>
+</a> -->
